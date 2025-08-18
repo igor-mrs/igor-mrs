@@ -4,13 +4,13 @@
 
 ## 🛠️ Habilidades
 
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-Intermediário-777BB4?style=flat&logo=php&logoColor=white) 
-![C](https://img.shields.io/badge/C-Básico-00599C?style=flat&logo=c&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-Intermediário-D83A3A?style=flat&logo=arduino&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-Básico-4479A1?style=flat&logo=sql&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-Básico-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-Básico-092E20?style=flat&logo=django&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Intermediário-007BFF?style=flat&logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-Intermediário-007BFF?style=flat&logo=php&logoColor=white) 
+![C](https://img.shields.io/badge/C-Básico-6c757d?style=flat&logo=c&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-Intermediário-007BFF?style=flat&logo=arduino&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-Básico-6c757d?style=flat&logo=sql&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-Básico-6c757d?style=flat&logo=laravel&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-Básico-6c757d?style=flat&logo=django&logoColor=white) 
 
 ---
 
