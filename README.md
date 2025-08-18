@@ -20,12 +20,11 @@
 
 ## 💡 Áreas de Interesse
 
-- Sistemas embarcados & automação  
+- Desenvolvimento web & backend (PHP, Laravel, Django, JavaScript)
+- IA aplicada a projetos pessoais
 - Integração hardware-software  
-- Eletrônica aplicada & instrumentação  
 - Projetos com Arduino, ESP & sensores  
 - Controle e monitoramento via SCADA  
-- IA aplicada a projetos pessoais  
 
 ---
 
@@ -37,11 +36,11 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-morais)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/igor-morais)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/igor-morais](https://www.linkedin.com/in/igor-amaral-3a2475209/))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/igor-mrs)
 
 ---
 
 ### ⚡ Sobre Mim
 
-Apaixonado por **transformar ideias em projetos tecnológicos reais**, combinando **programação, eletrônica e sistemas inteligentes** para resolver problemas práticos.
+Apaixonado por **transformar ideias em projetos tecnológicos reais** para resolver problemas!
