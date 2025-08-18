@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Igor Morais do Amaral, estudante de Engenharia Elétrica na UERJ e bolsista no INT. Apaixonado por tecnologia, programação e eletrônica, adoro transformar ideias em projetos reais que resolvem problemas do dia a dia.
+👋 Olá! Eu sou Igor Morais do Amaral, estudante de Engenharia Elétrica com ênfase em Sistemas e Computação na UERJ e bolsista no INT. Apaixonado por tecnologia, programação e eletrônica, adoro transformar ideias em projetos reais que resolvem problemas do dia a dia.
 
 ---
 
