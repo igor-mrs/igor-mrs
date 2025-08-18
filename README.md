@@ -1,21 +1,19 @@
-# 👋 Olá, eu sou Igor Morais
+# 👋 Olá, eu sou Igor Morais do Amaral
 
 🎓 Estudante de **Engenharia Elétrica (ênfase em Sistemas e Computação) na UERJ**  
 🔬 Bolsista de Iniciação Tecnológica no **Instituto Nacional de Tecnologia (INT)**  
-💻 Desenvolvo projetos pessoais combinando **programação e hardware**  
+💻 Desenvolvo projetos pessoais com programação  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) 
 ![Arduino](https://img.shields.io/badge/Arduino-D83A3A?style=flat&logo=arduino) 
-![ESP8266](https://img.shields.io/badge/ESP8266-FF69B4?style=flat) 
-![SCADA](https://img.shields.io/badge/SCADA-4B0082?style=flat) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql) 
 
 ---
@@ -31,19 +29,9 @@
 
 ---
 
-## 🛠️ Projetos Pessoais
+## 🛠️ Projetos em Destaque
 
-- **Carrinho de Transporte Inteligente**  
-  Tranca eletrônica, monitoramento de vibração/agitação e interface touch, com ESP8266 + SCADA-LTS  
-
-- **Detector de Sobretensão com Arduino**  
-  Leitura analógica/digital, LM358 como comparador, interrupções para alertas precisos  
-
-- **Análise de Dinâmicos do Uber (Python)**  
-  Scraping, classificação em tempo real e envio de alertas via WhatsApp  
-
-- **Automação & SCADA**  
-  Contadores, leitura de sensores, integração hardware-SCADA via Modbus IP  
+- **[UERJ Avalia](https://github.com/igor-mrs/uerj-avalia)** 
 
 ---
 
