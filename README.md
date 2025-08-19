@@ -1,5 +1,7 @@
-👋 Olá! Eu sou Igor Morais do Amaral, estudante de Engenharia Elétrica com ênfase em Sistemas e Computação na UERJ e bolsista no INT. Apaixonado por tecnologia, programação e eletrônica, adoro transformar ideias em projetos reais que resolvem problemas do dia a dia.
+👋 Olá, Eu sou Igor Morais do Amaral, estudante de Engenharia Elétrica com ênfase em Sistemas e Computação na UERJ e bolsista no INT.
+Apaixonado por tecnologia, programação e eletrônica, adoro transformar ideias em projetos reais que resolvem problemas do dia a dia.
 
+Gosto de enfrentar desafios técnicos e considero meus pontos fortes a resolução de problemas e a capacidade analítica para pensar em soluções eficientes.
 ---
 
 ## 🛠️ Habilidades
@@ -16,8 +18,8 @@
 
 ## 💡 Áreas de Interesse
 
-- Desenvolvimento Web & Backend (PHP, Laravel, Django, JavaScript)  
-- IA aplicada a projetos pessoais  
+- Desenvolvimento Web & Backend (PHP, Laravel, Django, JavaScript)
+- IA aplicada a projetos pessoais
 - Integração hardware-software  
 - Projetos com Arduino, ESP & sensores  
 - Controle e monitoramento via SCADA   
@@ -32,5 +34,5 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/igor-morais](https://www.linkedin.com/in/igor-amaral-3a2475209/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-amaral-3a2475209/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/igor-mrs)
