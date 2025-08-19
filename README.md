@@ -2,6 +2,7 @@
 Apaixonado por tecnologia, programação e eletrônica, adoro transformar ideias em projetos reais que resolvem problemas do dia a dia.
 
 Gosto de enfrentar desafios técnicos e considero meus pontos fortes a resolução de problemas e a capacidade analítica para pensar em soluções eficientes.
+
 ---
 
 ## 🛠️ Habilidades
