@@ -8,7 +8,7 @@ Gosto de enfrentar desafios técnicos e considero meus pontos fortes a resoluç�
 ## 🛠️ Habilidades
 
 ![Python](https://img.shields.io/badge/Python-Intermediário-007BFF?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Básico-007BFF?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Básico-6c757d?style=flat&logo=php&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-Intermediário-007BFF?style=flat&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-Básico-6c757d?style=flat&logo=c&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-Básico-6c757d?style=flat&logo=laravel&logoColor=white)
