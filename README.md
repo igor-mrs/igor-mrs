@@ -17,6 +17,7 @@ Gosto de enfrentar desafios técnicos e considero meus pontos fortes a **resolu�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
@@ -27,12 +28,14 @@ Gosto de enfrentar desafios técnicos e considero meus pontos fortes a **resolu�
 - Integração hardware–software  
 - Projetos com Arduino, ESP & sensores  
 - Controle e monitoramento via SCADA  
+- Programação e desenvolvimento de jogos (Godot, GDScript, Design de sistemas interativos)
 
 ---
 
 ## 🧩 Projetos em Destaque
 
 - **[UERJ Avalia](https://github.com/igor-mrs/uerj-avalia)** – Plataforma para avaliação de professores da Engenharia da UERJ, criada como projeto pessoal e open-source.
+- 🎮 **[Cipher Protocol](https://github.com/Clique33/Gamelab-Cipher-Labs)** – Projeto de desenvolvimento de jogos com foco em design, mecânicas e experimentação interativa usando Godot Engine.
 
 ---
 
