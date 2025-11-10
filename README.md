@@ -7,13 +7,13 @@ Gosto de enfrentar desafios técnicos e considero meus pontos fortes a resoluç�
 
 ## 🛠️ Habilidades
 
-![Python](https://img.shields.io/badge/Python-Intermediário-007BFF?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Básico-6c757d?style=flat&logo=php&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-Intermediário-007BFF?style=flat&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-Básico-6c757d?style=flat&logo=c&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Básico-6c757d?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Básico-6c757d?style=flat&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Básico-6c757d?style=flat&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007BFF?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6c757d?style=flat&logo=php&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-007BFF?style=flat&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C6c757d?style=flat&logo=c&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel6c757d?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django6c757d?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL6c757d?style=flat&logo=sql&logoColor=white)
 
 ---
 
