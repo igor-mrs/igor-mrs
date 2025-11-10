@@ -35,7 +35,7 @@ Gosto de enfrentar desafios técnicos e considero meus pontos fortes a **resolu�
 ## 🧩 Projetos em Destaque
 
 - **[UERJ Avalia](https://github.com/igor-mrs/uerj-avalia)** – Plataforma para avaliação de professores da Engenharia da UERJ, criada como projeto pessoal e open-source.
-- 🎮 **[Cipher Protocol](https://github.com/Clique33/Gamelab-Cipher-Labs)** – Projeto de desenvolvimento de jogos com foco em design, mecânicas e experimentação interativa usando Godot Engine.
+- **[Cipher Protocol](https://github.com/Clique33/Gamelab-Cipher-Labs)** – Jogo roguelite inspirado em Vampire Survivors, criado na Godot Engine com foco em mecânicas dinâmicas e evolução do jogador. Desenvolvido no GameLab UERJ.
 
 ---
 
