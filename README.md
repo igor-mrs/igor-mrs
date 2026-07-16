@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Igor Amaral</h2>
-  <p><strong>iOS Developer <code>{em construção}</code> · Software Engineer · Engenharia de Computação - UERJ</strong></p>
+  <p><strong>iOS Developer <code>{em construção}</code> · Software Engineer <code>{em construção}</code> · Engenharia de Computação - UERJ</strong></p>
   
   <p>
     <a href="https://www.linkedin.com/in/igor-amaral-3a2475209/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
