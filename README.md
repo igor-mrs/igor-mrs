@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/igor-amaral-3a2475209/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:igor.morais@uerj.br"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:igor.mrs@outlook.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/igor-mrs"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
   
@@ -59,11 +59,14 @@
 
 [![UERJ Avalia](https://img.shields.io/badge/UERJ_Avalia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igor-mrs/uerj-avalia)
 [![Cipher Protocol](https://img.shields.io/badge/Cipher_Protocol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clique33/Gamelab-Cipher-Labs)
+[![Reuni](https://img.shields.io/badge/Reuni-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/reuni/id6770676000)  
+
 
 </div>
 
 - **UERJ Avalia** — Plataforma open-source de avaliação de professores da Engenharia UERJ. Projeto pessoal full-stack.
 - **Cipher Protocol** — Roguelite feito em Godot com foco em mecânicas dinâmicas e evolução procedural, desenvolvido no GameLab UERJ.
+- **Reuni** - App iOS/macOS para descobrir, curtir e organizar eventos da PUC-Rio. Desenvolvido em parceria com Antonio Tomich e Bianca Cardador na Apple Developer Academy | PUC-Rio. Existe uma camada macOS paralela com Foundation Models e leitura de DOM para extração automática de informações da web e geração de cards.
 - **Iniciação à Docência** — Produção de minicursos e vídeo-aulas sobre desenvolvimento de jogos com Godot (2D, 3D, shaders).
 
 ---
