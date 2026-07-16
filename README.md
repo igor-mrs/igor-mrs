@@ -63,7 +63,7 @@
 </div>
 
 - **UERJ Avalia** — Plataforma open-source de avaliação de professores da Engenharia UERJ. Projeto pessoal full-stack.
-- **Cipher Protocol** — Roguelite feito na Godot com foco em mecânicas dinâmicas e evolução procedural, desenvolvido no GameLab UERJ.
+- **Cipher Protocol** — Roguelite feito em Godot com foco em mecânicas dinâmicas e evolução procedural, desenvolvido no GameLab UERJ.
 - **Iniciação à Docência** — Produção de minicursos e vídeo-aulas sobre desenvolvimento de jogos com Godot (2D, 3D, shaders).
 
 ---
