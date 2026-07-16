@@ -71,8 +71,8 @@
 ### // github stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=igor-mrs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-mrs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="160" src="stats.svg" />
+  <img height="160" src="languages.svg" />
 </div>
 
 ---
