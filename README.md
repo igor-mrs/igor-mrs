@@ -74,7 +74,7 @@
 ### // horizonte
 
 - Consolidar conhecimento em arquitetura de software e boas práticas no desenvolvimento iOS.
-- Publicar apps com propósito na App Store.
+- Publicar mais apps com propósito na App Store.
 - Continuar contribuindo com o mundo game dev, seja com ensino ou com projetos.
 
 ---
