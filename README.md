@@ -68,15 +68,6 @@
 
 ---
 
-### // github stats
-
-<div align="center">
-  <img height="160" src="stats.svg" />
-  <img height="160" src="languages.svg" />
-</div>
-
----
-
 ### // horizonte
 
 - Consolidar conhecimento em arquitetura de software e boas práticas no desenvolvimento iOS.
