@@ -34,6 +34,7 @@
 ![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=for-the-badge&logo=icloud&logoColor=white)
 
 **Back-end & Dados**  
+![Vapor](https://img.shields.io/badge/vapor-9600FA?style=for-the-badge&logo=vapor&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
