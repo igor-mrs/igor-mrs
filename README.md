@@ -17,7 +17,7 @@
 
 - Atualmente estagiando na **Apple Developer Academy | PUC-Rio**, mergulhando fundo em Swift, SwiftUI e CloudKit.
 - Paralelamente, colaboro no **GameLab UERJ** desenvolvendo jogos com Godot. Também atuo como bolsista de Iniciação à Docência na UERJ, produzindo conteúdos relacionados à GameDev em Godot.
-- Minha bagagem inclui sistemas web em PHP/Laravel, modelagem de dados com SQL Server, ferramentas desktop simples em C# e algumas automações em Python.
+- Minha bagagem inclui apps iOS/macOS desenvolvidos em Swift (SwiftUI, UIKit, Vapor), sistemas web em PHP/Laravel, modelagem de dados com SQL Server, ferramentas desktop simples em C# e algumas automações em Python.
 - Cursando Engenharia Elétrica com ênfase em Sistemas e Computação (Engenharia da Computação) na UERJ, o que me dá uma base analítica forte e um carinho especial por resolver problemas complexos.
 - Meu foco agora é consolidar fundamentos de engenharia de software e aplicar boas práticas no ecossistema Apple, sem pressa, mas com consistência.
 
