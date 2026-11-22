@@ -77,9 +77,3 @@
 - Consolidar conhecimento em arquitetura de software e boas práticas no desenvolvimento iOS.
 - Publicar mais apps com propósito na App Store.
 - Continuar contribuindo com o mundo game dev, seja com ensino ou com projetos.
-
----
-
-<div align="center">
-  > "De volta à praça, mais implacável que ontem"
-</div>
